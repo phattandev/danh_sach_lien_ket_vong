@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Source.cpp
+C:\Users\USER\Desktop\Thi TH CTDL\ON DSLK VONG\ON DSLK VONG\Source.cpp(60,6): error C2084: function 'void addLast(CLL &,typeinfo)' already has a body
+C:\Users\USER\Desktop\Thi TH CTDL\ON DSLK VONG\ON DSLK VONG\Source.cpp(46,6): message : see previous definition of 'addLast'
+  Generating Code...
